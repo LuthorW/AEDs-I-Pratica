@@ -5,7 +5,7 @@ Este espaço é dedicado à prática e ao desenvolvimento de habilidades em lóg
 
 > 📍 Universidade Federal de Alfenas – UNIFAL  
 > 👩‍🎓 Aluna: Letícia Santos Alves  
-> 🗂️ Repositório: [github.com/LuthorW](https://github.com/LuthorW/AEDs_I_Pratica)
+> 🗂️ Repositório: [github.com/LuthorW](https://github.com/LuthorW/AEDs-I-Pratica)
 
 ---
 
